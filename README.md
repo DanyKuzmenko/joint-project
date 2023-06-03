@@ -1,3 +1,3 @@
 # joint-project
 # janaya
-№jana jana janaya
+#jana jana janaya
