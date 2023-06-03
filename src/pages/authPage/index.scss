@@ -1,0 +1,28 @@
+@import url('../../vendor/normalize.css');
+@import url('../../vendor/fonts/fonts.scss');
+.sneg-header {
+    text-transform: uppercase;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.sneg-link {
+    text-transform: uppercase;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 20px;
+}
+.sneg-link:hover {
+    text-decoration: underline;
+}
+.sneg-container {
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+}
+.sneg-container_iframe {
+        height: 100%;
+        width: 70vw;
+}
