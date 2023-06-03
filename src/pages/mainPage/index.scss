@@ -1,2 +1,12 @@
 @import url('../../vendor/normalize.css');
 @import url('../../vendor/fonts/fonts.scss');
+.jannaya-container {
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+}
+.jannaya-container_iframe {
+        height: 100%;
+        width: 70vw;
+}
+
